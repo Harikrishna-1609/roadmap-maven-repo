@@ -20,7 +20,7 @@ This repository acts as the authoritative remote Maven repository for `com.roadm
     <dependency>
         <groupId>com.roadmap</groupId>
         <artifactId>automation-engine</artifactId>
-        <version>1.0.0</version>
+        <version>1.1.0</version>
     </dependency>
 </dependencies>
 ```
